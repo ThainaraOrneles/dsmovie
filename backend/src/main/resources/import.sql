@@ -33,6 +33,11 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Interestelar', '
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Contato', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Duna', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Aquaman', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2cUsDz4TzFYHrKktT1bKHHQ7Cgm.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Dickinson', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Wynonna Earp', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7zXhx8pCQ9N194ZURcwmC33HWf.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Gavião arqueiro', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/62qfVDg4VK3kqZFxrRztPqSbal4.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Estrelas além do tempo', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg');
+
 
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
